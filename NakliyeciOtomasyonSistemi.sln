@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NakliyeciOtomasyonSistemi", "NakliyeciOtomasyonSistemi\NakliyeciOtomasyonSistemi.csproj", "{87D125B7-1675-428C-B0D8-3413EDFB4A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D125B7-1675-428C-B0D8-3413EDFB4A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D125B7-1675-428C-B0D8-3413EDFB4A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D125B7-1675-428C-B0D8-3413EDFB4A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D125B7-1675-428C-B0D8-3413EDFB4A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41A119EF-8A58-4B8E-9200-4C0FAEC7C2A4}
+	EndGlobalSection
+EndGlobal
